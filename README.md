@@ -1,5 +1,9 @@
 # Google Maps Business Scraper
 
+<p align="center">
+  <img src="banner.webp" alt="Google Maps Business Scraper Banner" width="80%">
+</p>
+
 A powerful, multi-language Google Maps business scraping tool that extracts comprehensive business information and exports it in your preferred language and format. This script supports English, Arabic, French, and Deutsch, and is designed for clean, user-friendly exports to Excel, JSON, or HTML.
 
 ## Table of Contents
